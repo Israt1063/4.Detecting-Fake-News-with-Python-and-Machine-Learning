@@ -44,4 +44,6 @@ This project is a machine learning-based fake news detector that uses Natural La
 ### 📈 Accuracy Achieved: `99.51%`
 
 ### 🧮 Confusion Matrix:
+Actual FAKE 4679 21
+Actual REAL 23 4257
 
